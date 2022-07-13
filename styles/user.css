@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Fugaz One';
+    src: url('/fonts/FugazOne-Regular.ttf');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+.header-custom {
+    font: 30pt Fugaz One;
+    color: #ffbe2e o !important;
+}
