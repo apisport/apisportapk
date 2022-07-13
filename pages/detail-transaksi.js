@@ -102,7 +102,7 @@ export default function DetailNotifikasi() {
                         </div>
 
                         <div className=" text-center">
-                            <img className='img-fluid' src={`/uploads/${transaksi.buktiBayar}`} />
+                            <img className='img-fluid' src="lapangan/lapangan2.jpg" />
                         </div>
                         <div className='row mt-3'>
                             <div className='col-12 d-grid col-lg-12 mb-4'>

@@ -282,7 +282,7 @@ export default function Home() {
             </div>
 
             <div className="mt-4 text-center">
-              <img src={createObjectURL} className="img-fluid" />
+              <img src="lapangan/lapangan2.jpg" className="img-fluid" />
             </div>
             <div className="d-flex flex-row mt-3">
               <span className='font-weight-normal' style={{ color: 'red' }}><b>*Mohon untuk mengupload bukti pembayaran hingga 13:30 WIB atau pembayaran akan di cancel</b></span>
