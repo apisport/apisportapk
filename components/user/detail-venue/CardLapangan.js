@@ -41,7 +41,7 @@ export default function CardLapangan({props}) {
                                         <>
                                             {i == 0 ?
                                                 (<div className="carousel-item active">
-                                                    <img src="lapangan/lapangan2.jpg" {`/uploads/${data}`} className=" img-fluid" />
+                                                    <img src="lapangan/lapangan2.jpg"  className=" img-fluid" />
                                                 </div>) :
                                                 (<div className="carousel-item">
                                                     <img src="lapangan/lapangan2.jpg" className=" img-fluid" />
