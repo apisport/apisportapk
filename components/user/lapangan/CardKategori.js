@@ -30,10 +30,10 @@ const CardKategori = ({ props }) => {
                                     <>
                                         {i == 0 ?
                                             (<div className="carousel-item active">
-                                                <img src={`/uploads/${data}`} className="" width={400} height={200} />
+                                                <img src="lapangan/lapangan2.jpg" className="" width={400} height={200} />
                                             </div>) :
                                             (<div className="carousel-item">
-                                                <img src={`/uploads/${data}`} className="" width={400} height={200} />
+                                                <img src="lapangan/lapangan2.jpg" className="" width={400} height={200} />
                                             </div>)}
                                     </>
                                 ))}

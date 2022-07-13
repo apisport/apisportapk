@@ -6,7 +6,7 @@ const CardKategori = (props) => {
             <a href='/detail-venue'>
                 <div className="col card shadow">
                     <div className="card text-start">
-                        <img src="images/futsallap.jpg" className="card-img-top" alt="..." width='160' height='90' />
+                        <img src="lapangan/lapangan2.jpg" className="card-img-top" alt="..." width='160' height='90' />
                         <div className="card-body">
                             <h5 className="card-title" style={{ color: "black" }}><strong>Lapangan Mitra</strong></h5>
                             <span className="card-text text-left" style={{ color: "black" }}><icon className='fa fa-calendar'></icon> Senin - Rabu</span><br></br>
