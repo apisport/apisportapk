@@ -12,7 +12,7 @@ const CardRekomendasi = ({ props }) => {
                 }
 
             }}>
-                <div className="col col-md-4 col-12 card shadow">
+                <div className="col-md-4 col-12 card shadow">
                     <div className="card text-start">
                         <div id={`${namaHasil}`} className="carousel slide" data-bs-ride="carousel">
                             <div className="carousel-indicators">
