@@ -139,7 +139,7 @@ export default function Home() {
         <div className="container my-4 text-black-50" >
           <h3 style={{ color: 'black' }} className='fw-bold fst-italic'>REKOMENDASI LAPANGAN</h3>
           <hr></hr>
-          <div className="row row-cols-1 row-cols-md-3 g-4 mt-3">
+          <div className="row">
             {rekomendasi.length === 0 ? (
               <></>
             ) : (
