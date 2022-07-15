@@ -93,8 +93,9 @@ export default function Lapangan() {
                             <>
                                 
                                 {currentPosts.map((data, i) => (
-                                    
-                                    <CardKategori props={data} />
+                                    <div className='col-md-12 col-sm-12'>
+                                        <CardKategori props={data} />
+                                    </div>
                                 ))}
                             </>
                         )}
