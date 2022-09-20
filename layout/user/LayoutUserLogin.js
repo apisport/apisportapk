@@ -51,6 +51,10 @@ const LayoutUser = ({ children }) => {
                 <meta property="og:site_name" content="PWA App" />
                 <meta property="og:url" content="https://yourdomain.com" />
                 <meta property="og:image" content="https://yourdomain.com/icons/apple-touch-icon.png" />
+                <meta
+                    name='viewport'
+                    content='minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, user-scalable=no, viewport-fit=cover'
+                />
             </Head>
             <Navbar></Navbar>
             {children}
